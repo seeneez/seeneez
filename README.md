@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @seeneez
-- 🌱 I’m currently learning python as part of #100DaysOfCode challenge.
-
-I am planning to update my daily progress here.
 
 
 <!---
